@@ -1,0 +1,126 @@
+body{
+	margin: 0;
+	padding:0;
+	background: #f4f4f4;
+	font-family: sans-serif;
+}
+
+
+.wrapper {
+	background:;
+	margin: 0 auto;
+	padding: 0;
+	position: relative;
+	text-align: center;
+}
+
+td,th {
+	padding: 0 0 15px 0;
+}
+
+
+#PlayArea {
+	padding: 0;
+	margin: 0 auto;
+	display: inline-block;
+	background-image: url(../images/shirt.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
+
+input {
+	display: inline-block;
+}
+
+.edit {
+	margin: 6em 9em;
+	height: 200px;
+	width: 130px;
+	border:none;
+	border-radius: 10px;
+	font-family: monospace;
+	font-size: 17px;
+	line-height: 1.3em;
+}
+
+
+
+#buttons {
+	width: 100%;
+	text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    margin: 2em;
+    position: relative;
+    border-radius: 3px;
+    background: #4CAF50;
+    color: #fff;
+    font-size: .8em;
+    font-weight: 300;
+    padding:0 3em;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    font-weight: 300;
+    padding:;
+    border: none;
+    height: 42px;
+    width: 180px;
+}
+
+.mail {
+    display: inline-block;
+    margin: 2em;
+    position: relative;
+    border-radius: 3px;
+    background: #fff;
+    color: #000;
+    font-size: 1em;
+    font-weight: 300;
+    padding:;
+    border: none;
+    height: 42px;
+    width: 185px;
+    padding-left: 1em;
+    border: 2px solid rgba(0,0,0,0.2);
+}
+
+.btn:hover {
+	cursor: pointer;
+}
+
+#items_table {
+	width: 100%;
+    padding: 2em 0;
+    background: ;
+    text-align: center;
+}
+
+#list {
+	width: 100%;
+	font-family: monospace;
+	font-size: 17px;
+	line-height: 1.3em;
+}
+
+#items_table h2 {
+	font-family: sans-serif;
+}
+
+#items_table tr {
+	
+}
+
+.someclass {
+	background: red;
+}
+
+.hidden {
+	display: none;
+}
+
+.shown {
+	display: inline-block;
+}
